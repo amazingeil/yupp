@@ -1,6 +1,6 @@
 <template>
     <div>
-        订酒店
+        订酒店试一试
     </div>
 </template>
 
